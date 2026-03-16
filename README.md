@@ -1,6 +1,6 @@
 # Chicago Codec (EVX3)
 
-The [Cairo](http://www.bertolami.com/index.php?engine=portfolio&content=compression&detail=cairo-video-codec) low-latency video codec was originally created in 2011 for the [everyAir](http://www.everyair.net) mobile cloud gaming project, enabling real-time game streaming from PC, Mac, and PS3 to early iOS devices (original iPad, iPhone 3GS). Chicago is an evolution of Cairo that adds:
+The [Cairo](https://www.bertolami.com/portfolio/data-compression/cairo-video-codec) low-latency video codec was originally created in 2011 for the [everyAir](http://www.everyair.net) mobile cloud gaming project, enabling real-time game streaming from PC, Mac, and PS3 to early iOS devices (original iPad, iPhone 3GS). Chicago is an evolution of Cairo that adds:
 
 - B-frame bidirectional prediction with hierarchical references
 - Sample Adaptive Offset (SAO) filter with Band Offset and Edge Offset modes
@@ -99,4 +99,4 @@ While this release is provided under an open and permissive copyright license, t
 
 ## More Information
 
-For more information visit [bertolami.com](http://www.bertolami.com/index.php?engine=portfolio&content=compression&detail=cairo-video-codec).
+For more information visit [bertolami.com](https://www.bertolami.com/portfolio/data-compression/chicago-video-codec).
