@@ -1,5 +1,10 @@
 # Chicago Codec (EVX3)
 
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-orange)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![PRs](https://img.shields.io/badge/PRs-welcome-blue)
+
 The [Cairo](https://www.bertolami.com/portfolio/data-compression/cairo-video-codec) low-latency video codec was originally created in 2011 for the [everyAir](http://www.everyair.net) mobile cloud gaming project, enabling real-time game streaming from PC, Mac, and PS3 to early iOS devices (original iPad, iPhone 3GS). Chicago is an evolution of Cairo that adds:
 
 - B-frame bidirectional prediction with hierarchical references
